@@ -47,7 +47,7 @@ function Footer() {
                     ),
                   },
                   {
-                    href: "mailto:himanshubhartiy99@gmail.com",
+                    href: "mailto:mkproperties785@gmail.com",
                     icon: (
                       <svg
                         fill="#00adb5"
