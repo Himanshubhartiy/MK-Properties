@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Explore() {
   return (
     <>
-      <div className="bg-white">
+      <div className="bg-white" id="started__section">
         <div className="pt-5">
           <h5 className="text-center text-black">
             GET STARTED WITH EXPLORING REAL ESTATE OPTIONS
